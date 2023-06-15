@@ -2,7 +2,7 @@
 
 ### Task goals
 
-As part of the larger Eurostat project on Trusted Smart Statistics II, Utrecht University (UU), Vrije Universiteit Brussel (VUB), and The National Institute of Statistics and Economic Studies (INSEE) are collaborating on the question of how data acquired from smart and traditional surveys can be integrated by official statistics institutions, and how we can analyze and deal with mode effects between smart, "clever", and traditional methodologies.
+As part of the larger Eurostat project on Trusted Smart Statistics II, teams from Utrecht University ([UU](https://github.com/orgs/SSI-WP2-4/teams/uu)), Vrije Universiteit Brussel ([VUB](https://github.com/orgs/SSI-WP2-4/teams/vub)), and The National Institute of Statistics and Economic Studies ([INSEE](https://github.com/orgs/SSI-WP2-4/teams/insee)) are collaborating on the question of how data acquired from smart and traditional surveys can be integrated by official statistics institutions, and how we can analyze and deal with mode effects between smart, "clever", and traditional methodologies.
 
 More explicitly, the goal is to establish whether there are large differences in time use and household spending depending on whether a smart survey or more traditional web or paper diary survey is being used. One key task is to separate sample selection differences from mode measurement effects and isolate the diffe rence between the datasets caused by the different measurement methods.
 
